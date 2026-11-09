@@ -1,0 +1,16 @@
+{
+  "name": "jekt-skills",
+  "owner": {
+    "name": "GlobalMentor, Inc."
+  },
+  "metadata": {
+    "description": "Jekt plugins for AI agents."
+  },
+  "plugins": [
+    {
+      "name": "jekt",
+      "source": "./",
+      "description": "Agent skill for Jekt, a context architecture that keeps a project's tickets, plans, designs, and minutes as files in its repository."
+    }
+  ]
+}
