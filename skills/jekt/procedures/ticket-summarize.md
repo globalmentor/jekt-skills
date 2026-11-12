@@ -1,5 +1,5 @@
 ---
-modified: 2026-11-01
+modified: 2026-11-12
 ---
 
 # Summarize Ticket
@@ -122,7 +122,7 @@ A useful report covers:
 - A one-line characterization of what the summary captures (for example, "outcome, two key decisions, handoff for the cache invalidation").
 - **TODO-source deletion reminder.** If the ticket's description records that it was created from a TODO in this same repository (recognizable by a "Created from a TODO" line in the description's *Notes* section that names a ticket in this repository or a project-level TODO), and the summary indicates the ticket has fully addressed what the TODO recorded, mention that the original TODO file can now be deleted. Do not delete it.
 
-**Stop.** Do not commit, push, switch branches, or invoke other operations.
+Do not commit, push, switch branches, or start any other operation the request did not ask for.
 
 ## 10. Closing Footer
 

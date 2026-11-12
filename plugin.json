@@ -1,7 +1,7 @@
 {
   "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
   "name": "jekt",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Agent skill for Jekt, a context architecture that keeps a project's tickets, plans, designs, and minutes as files in its repository.",
   "author": {
     "name": "GlobalMentor, Inc.",

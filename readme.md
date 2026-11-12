@@ -1,6 +1,6 @@
-# Jekt™ Skills
+# Jekt Skills
 
-[Jekt](https://jekt.dev/) is a context architecture for software projects: it keeps a project's tickets, plans, designs, and minutes as plain files in its repository, where people and AI assistants work with them directly. This repository provides the Jekt skill, which teaches AI agents to find and use that context and to carry out Jekt operations such as creating tickets, writing plans, and updating minutes. Jekt is developed and stewarded by [GlobalMentor, Inc.](https://www.globalmentor.com/), which publishes this skill.
+[Jekt™](https://jekt.dev/) is a context architecture for software projects: it keeps a project's tickets, plans, designs, and minutes as plain files in its repository, where people and AI assistants work with them directly. This repository provides the Jekt skill, which teaches AI agents to find and use that context and to carry out Jekt operations such as creating tickets, writing plans, and updating minutes. Jekt is developed and stewarded by [GlobalMentor, Inc.](https://www.globalmentor.com/), which publishes this skill.
 
 The skill follows the [Agent Skills](https://agentskills.io/) format and works with agents that support it, including GitHub Copilot, Claude Code, Codex, and Cursor.
 
